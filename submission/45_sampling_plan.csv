@@ -1,9 +1,9 @@
-camera,scenario,frames
-front,normal,25
-front,hard,25
-rear,normal,25
-rear,hard,25
-left,normal,25
-left,hard,25
-right,normal,25
-right,hard,25
+camera_id,slice_type,frames,risk,rationale
+front,normal,25,low,View tiêu chuẩn
+front,hard,25,high,Chói sáng hoặc xe xa
+rear,normal,25,low,View tiêu chuẩn
+rear,hard,25,high,Che khuất ego_body
+left,normal,25,low,View tiêu chuẩn
+left,hard,25,high,Xe chạy nhanh sát rìa
+right,normal,25,low,View tiêu chuẩn
+right,hard,25,high,Điểm mù vỉa hè

@@ -1,1 +1,5 @@
 id,date,question,decision,rationale,status
+1,2026-09-29,Xe bị lẹm vào ignore_region,Xóa box,Rule R09 ghi rõ vật bị che trên 50% bởi vùng ignore thì bỏ,resolved
+2,2026-09-29,Xe ở xa bị méo,Giữ nhãn Car,Dù méo nhưng hình dáng chung vẫn giống Car hơn ThreeWheeler,resolved
+3,2026-09-29,Người đi bộ sát mép,Vẽ thêm,Luật quy định H>40px là vẽ,resolved
+4,2026-09-29,Góc nhìn hông quá dẹt,Cần hướng dẫn mới,Không thể phân biệt được bằng mắt thường,escalated
