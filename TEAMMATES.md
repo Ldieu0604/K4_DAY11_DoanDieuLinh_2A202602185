@@ -2,23 +2,23 @@
 
 ## 1. Thông tin nhóm
 
-- Khóa/lớp: K4 VinAI
+- Khóa/lớp: Nhomcuatoi
 - Tên nhóm: Nhóm CVAT Fisheye
-- Repo Public: github.com/doandieulinh/K4_DAY11_DoanDieuLinh_2A202602185
+- Repo Public: [github.com/Ldieu0604/K4_DAY11_Nhomcuatoi.git](https://github.com/Ldieu0604/K4_DAY11_Nhomcuatoi.git)
 - Máy giữ hồ sơ chính / người quản lý: Đoàn Diệu Linh
 - Slice chung lấy từ mode.json: B4-center
-- Tên định danh vai A dùng cho --self: hoangcongchu
+- Tên định danh vai A dùng cho --self: doandieulinh
 - Kênh trao đổi nội bộ: Zalo
-- Đại diện nộp (vai C): Đoàn Diệu Linh, 2A202602185
+- Đại diện nộp (vai A): Đoàn Diệu Linh, 2A202602185
 - Commit chốt bài: [Cập nhật sau khi push lên Github]
 
 ## 2. Ba vai chính
 
 | Vai | Họ và tên | MSSV | Tên định danh trong mode | Trách nhiệm | Bằng chứng đóng góp |
 |---|---|---|---|---|---|
-| A · Gán nhãn | Hoàng Công Chứ | 2A202602187 | hoangcongchu | Parking/C0/slice, self-QC, lock, rework | Thực hiện r1_craft, lock mã 0F8C-A774, lock rework 1069-08F4 |
+| A · Gán nhãn | Đoàn Diệu Linh | 2A202602185 | doandieulinh | Parking/C0/slice, self-QC, lock, rework | Thực hiện r1_craft, lock mã 0F8C-A774, lock rework 1069-08F4 |
 | B · QA độc lập | Lã Việt Quang | 2A202602289 | lavietquang | Review trước reference, finding QA, kiểm lại ca sửa | Tạo qa_review.md và 3 lỗi r2_qa trong findings.csv |
-| C · Chẩn đoán & điều phối | Đoàn Diệu Linh | 2A202602185 | doandieulinh | Báo cáo, phân xử, kế hoạch, tích hợp, check và nộp | Chạy lệnh compare, chẩn đoán lỗi r3_diag, viết Exit Ticket |
+| C · Chẩn đoán & điều phối | Hoàng Công Chứ | 2A202602187 | hoangcongchu | Báo cáo, phân xử, kế hoạch, tích hợp, check và nộp | Chạy lệnh compare, chẩn đoán lỗi r3_diag, viết Exit Ticket |
 
 Bảng này xác định vai của nhóm. Vòng QA tự sinh trong team.json thuộc quy trình nhiều hồ sơ của CLI; nhóm dùng một slice chung và quy trình A → B → C đã nêu trong hướng dẫn.
 
@@ -47,6 +47,6 @@ Bảng này xác định vai của nhóm. Vòng QA tự sinh trong team.json thu
 - [x] C xác nhận báo cáo đúng bản khóa, các file đầy đủ và check exit 0: Đoàn Diệu Linh (triage pass)
 - [x] manifest.json tại commit chốt có failed_gates rỗng.
 - [x] Repo nhóm Public, ảnh và các bằng chứng mở được.
-- [ ] C đã push và gửi link repo nhóm + commit qua kênh lớp công bố.
+- [X] C đã push và gửi link repo nhóm + commit qua kênh lớp công bố.
 
 Chỉ đánh dấu việc đã kiểm thật. Nhóm nộp một hồ sơ chung; check không tự chấm đóng góp từng người. Giữ nguyên header/các cột enum của findings.csv; tên người được ghi trong tài liệu này hoặc phần note thích hợp.
